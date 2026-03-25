@@ -16,4 +16,3 @@ function remainingElements(oldArr, newArr){
 
 
 module.exports = remainingElements;
-
