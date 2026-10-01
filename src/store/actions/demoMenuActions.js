@@ -14,4 +14,3 @@ const actionCreators = async () => {
 }
 
 export default actionCreators;
-
